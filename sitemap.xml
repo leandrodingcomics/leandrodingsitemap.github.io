@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org">
+  <!-- Sua Landing Page Principal -->
+  <url>
+    <loc>http://www.leandroding.com</loc>
+    <lastmod>2026-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ilustrações -->
+  <url>
+    <loc>http://www.leandroding.com/p/ilustracao.html</loc>
+    <lastmod>2026-01-1</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  
+  <!-- quadrinhos-->
+  <url>
+    <loc>http://www.leandroding.com/p/quadrinhos.html</loc>
+    <lastmod>2026-01-1</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- storyboards -->
+  <url>
+    <loc>http://www.leandroding.com/p/storyboard.html</loc>
+    <lastmod>2026-01-1</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- sobre-->
+  <url>
+    <loc>http://www.leandroding.com/p/sobre.html</loc>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- contato -->
+  <url>
+    <loc>http://www.leandroding.com/p/contato.html</loc>
+    <lastmod>2026-01-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
+
+

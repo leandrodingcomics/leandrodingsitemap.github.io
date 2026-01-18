@@ -11,7 +11,7 @@
   <!-- ilustrações -->
   <url>
     <loc>http://www.leandroding.com/p/ilustracao.html</loc>
-    <lastmod>2026-01-1</lastmod>
+    <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19,23 +19,23 @@
   
   <!-- quadrinhos-->
   <url>
-    <loc>http://www.leandroding.com/p/quadrinhos.html</loc>
-    <lastmod>2026-01-1</lastmod>
+    <loc>https://www.leandroding.com/p/quadrinhos.html</loc>
+    <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- storyboards -->
   <url>
-    <loc>http://www.leandroding.com/p/storyboard.html</loc>
-    <lastmod>2026-01-1</lastmod>
+    <loc>https://www.leandroding.com/p/storyboard.html</loc>
+    <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- sobre-->
   <url>
-    <loc>http://www.leandroding.com/p/sobre.html</loc>
+    <loc>https://www.leandroding.com/p/sobre.html</loc>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -43,7 +43,7 @@
   
   <!-- contato -->
   <url>
-    <loc>http://www.leandroding.com/p/contato.html</loc>
+    <loc>https://www.leandroding.com/p/contato.html</loc>
     <lastmod>2026-01-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
